@@ -1,4 +1,4 @@
-# 🏥 Medic Insurance Cost Prediction
+# 🏥 Medical Insurance Cost Prediction
 
 This project uses multiple machine learning models to predict individual medical insurance charges based on personal and lifestyle features. It includes full data preprocessing, model training, performance evaluation, and deployment using a Streamlit web application.
 
